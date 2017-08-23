@@ -1,7 +1,7 @@
 # Music-Box-Project
 Predict users churn for a music box app.
 ## Dataset
-User activity records from 03/01/2017 to 05/12/2017 (missing records for a few days)
+User activity records from 03/01/2017 to 05/12/2017 (many records miss for March 2017)
 - play dataset
 - download dataset
 - search dataset
